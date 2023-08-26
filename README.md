@@ -1,4 +1,4 @@
-# Docker-React with Travis CI for AWS Deployment 🌐
+# React-app (Containerized using Docker) with Travis CI for AWS Deployment 🌐
 
 Containerize and deploy your React app effortlessly! This repository demonstrates how to Dockerize a React application and utilize Travis CI to automate code deployment to AWS. Build, ship, and scale with confidence.
 
